@@ -13,11 +13,6 @@ Ici, c’est mon **playground tech** : projets Web3, automations JS, expériment
 
 ---
 
-## 🛠️ En formation continue
-🎓 Actuellement chez **[La Capsule](https://www.lacapsule.academy/)** pour perfectionner mes skills fullstack & sortir des projets toujours plus solides.
-
----
-
 ## 🌍 Me retrouver ailleurs
 📩 Mail : [se-digitals@outlook.fr](mailto:se-digitals@outlook.fr)  
 💼 LinkedIn : [Imad Meknani](https://www.linkedin.com/in/imad-meknani-2848a922b/)  
