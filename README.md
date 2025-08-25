@@ -16,7 +16,7 @@ Ici, c’est mon **playground tech** : projets Web3, automations JS, expériment
 ## 🌍 Me retrouver ailleurs
 📩 Mail : [se-digitals@outlook.fr](mailto:se-digitals@outlook.fr)  
 💼 LinkedIn : [Imad Meknani](https://www.linkedin.com/in/imad-meknani-2848a922b/)  
-🌐 Portfolio : [www.se-digitals.fr](https://www.se-digitals.fr/)
+🌐 Agence : [www.se-digitals.fr](https://www.se-digitals.fr/)
 
 ---
 
