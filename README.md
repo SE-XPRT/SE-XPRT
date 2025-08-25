@@ -1,4 +1,4 @@
-# 👋 Hey, I'm @SE-XPRT
+# 👋 Hey, I'm @SE-DIGITALS
 
 Bienvenue sur mon GitHub !  
 Ici, c’est mon **playground tech** : projets Web3, automations JS, expérimentations, et outils qui sortent des sentiers battus. ⚡
